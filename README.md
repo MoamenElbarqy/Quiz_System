@@ -5,11 +5,6 @@ This file-based project simulates a real quiz management system with features fo
 
 ##  Features
 
-###  User Management
-- Three distinct user roles: Admin, Teacher, and Student
-- User registration for student and Teacher(Note: You Can't Register directly as Admin, the internal admin must adding you)
-- Access control based on user roles
-
 ###  Quiz Management
 - Create and manage quizzes data
 - Add multiple choice questions with answers
@@ -75,7 +70,7 @@ Compile and run the program.
 ===================================
 ~~~
 
-### 🔹 Teacher Main Menu
+###  Teacher Main Menu
 ~~~
 ===================================
       Teacher Main Menu
