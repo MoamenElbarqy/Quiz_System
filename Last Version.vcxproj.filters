@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Quiz">
+      <UniqueIdentifier>{96f35d05-fa43-4c13-bcd8-87f88d177c5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Solved Quiz">
+      <UniqueIdentifier>{c5a0ad0d-e58b-4359-a819-aa5f07bcde4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Student">
+      <UniqueIdentifier>{696c0199-b4df-454c-afc7-2172ea9f23c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Teacher">
+      <UniqueIdentifier>{a15da772-0e4a-40f1-b18b-5d4f01d8b294}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Misc">
+      <UniqueIdentifier>{1b1b5018-836d-49c8-856d-5706d6a80952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Login">
+      <UniqueIdentifier>{f44217d0-f339-44b0-939c-3ae42ae38ae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Register">
+      <UniqueIdentifier>{443572a8-d2c5-4ae8-bd2d-27b7281f18a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menus">
+      <UniqueIdentifier>{36f589ff-9c7b-4b80-8519-cca177e8afb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Quiz System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TeacherRegister.h">
+      <Filter>Header Files\Register</Filter>
+    </ClInclude>
+    <ClInclude Include="StudnetRegister.h">
+      <Filter>Header Files\Register</Filter>
+    </ClInclude>
+    <ClInclude Include="Register.h">
+      <Filter>Header Files\Register</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateNewQuiz.h">
+      <Filter>Header Files\Teacher</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteQuiz.h">
+      <Filter>Header Files\Teacher</Filter>
+    </ClInclude>
+    <ClInclude Include="EditDraftQuiz.h">
+      <Filter>Header Files\Teacher</Filter>
+    </ClInclude>
+    <ClInclude Include="TeacherLogin.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentLogin.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Login.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="TeacherMainMenu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="StudnetMainMenu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz.h">
+      <Filter>Header Files\Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="SolvedQuiz.h">
+      <Filter>Header Files\Solved Quiz</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="AvailableQuizzes.h">
+      <Filter>Header Files\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="PreviousResults.h">
+      <Filter>Header Files\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="ReviewSolvedQuiz.h">
+      <Filter>Header Files\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="StartNewQuiz.h">
+      <Filter>Header Files\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="Teacher.h">
+      <Filter>Header Files\Teacher</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files\Student</Filter>
+    </ClInclude>
+    <ClInclude Include="PublishQuiz.h">
+      <Filter>Header Files\Teacher</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderScreen.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
