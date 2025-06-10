@@ -3,7 +3,7 @@
 **Quiz System** developed using **Object-Oriented Programming (OOP) in C++**.  
 This file-based project simulates a real quiz management system with features for **Student, Teacher**.  
 
-## 📌 Features
+##  Features
 
 ###  User Management
 - Three distinct user roles: Admin, Teacher, and Student
@@ -62,7 +62,7 @@ Compile and run the program.
 ===================================
 ~~~
 
-### 🔹 Student Main Menu
+###  Student Main Menu
 ~~~
 ===================================
       Student Main Menu
@@ -103,7 +103,7 @@ Compile and run the program.
 ===================================
 ~~~
 
-## 📌 Quiz Features
+##  Quiz Features
 
 ###  Quiz Creation
 - Set Quiz Name
