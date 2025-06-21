@@ -48,11 +48,34 @@ Compile and run the program.
 ###  Login Menu
 ~~~
 ===================================
+         MainMenu      
+===================================
+[1] Login
+[2] Register
+[3] Exit
+===================================
+~~~
+
+###  Login Menu
+~~~
+===================================
          Login Screen      
 ===================================
 [1] Login As Student
 [2] Login As Teacher
 [3] Login As Admin
+[4] Exit
+===================================
+~~~
+
+###  Register Menu
+~~~
+===================================
+         Register Menu      
+===================================
+[1] Register As Student
+[2] Register As Teacher
+[3] Register As Admin
 [4] Exit
 ===================================
 ~~~
