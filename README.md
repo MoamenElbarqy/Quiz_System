@@ -121,5 +121,5 @@ Register First With Your Data
 ~~~
 
 ##  Project Structure
+![Screenshot 2025-06-23 064846](https://github.com/user-attachments/assets/a714081a-8b0a-4260-b6fb-48585bf33208)
 
-![image](https://github.com/user-attachments/assets/251328a9-d3fb-4d58-8d2a-ea835139018b)
