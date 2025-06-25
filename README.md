@@ -76,8 +76,7 @@ Register First With Your Data
 ===================================
 [1] Login As Student
 [2] Login As Teacher
-[3] Login As Admin
-[4] Exit
+[3] Exit
 ===================================
 ~~~
 
@@ -88,8 +87,7 @@ Register First With Your Data
 ===================================
 [1] Register As Student
 [2] Register As Teacher
-[3] Register As Admin
-[4] Exit
+[3] Exit
 ===================================
 ~~~
 
