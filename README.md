@@ -59,7 +59,7 @@ Register First With Your Data
 
 ##  User Interface
 
-###  Login Menu
+###  Main Menu
 ~~~
 ===================================
          MainMenu      
