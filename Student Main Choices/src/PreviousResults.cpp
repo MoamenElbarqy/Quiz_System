@@ -11,11 +11,11 @@ using namespace std;
 
 void PreviousResults::ShowTableHeader() {
     cout <<
-            "\t----------------------------------------------------------------------------------------------------------------------\n";
+            "\t--------------------------------------------------------------------------------------------\n";
     cout <<
-            "\t|    ID    |         Quiz Title         |    Quiz Marks |  Your Score   |   Grade   |  Quiz Status   |  Publisher     \n";
+            "\t|    ID    |         Quiz Title         |    Quiz Marks |  Your Score   |  Publisher     \n";
     cout <<
-            "\t----------------------------------------------------------------------------------------------------------------------\n";
+            "\t--------------------------------------------------------------------------------------------\n";
 }
 
 void PreviousResults::ShowTableRows(vector<SolvedQuiz> &vec)
